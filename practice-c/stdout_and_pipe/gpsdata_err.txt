@@ -1,0 +1,1 @@
+Invalid Value: {latitude: 42.362747, longitude: -190.090576, info: 'Speed=23'}
