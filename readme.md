@@ -1,3 +1,5 @@
-#logger c/c++
+# Charly
 
-##practice
+This repository has been writing for a personal development practice and building references.
+
+## C, C++
