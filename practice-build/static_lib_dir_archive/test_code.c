@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "./custom-lib/encrypt.h"
-#include "./custom-lib/checksum.h"
+#include "./includes/encrypt.h"
+#include "./includes/checksum.h"
 
 int main()
 {

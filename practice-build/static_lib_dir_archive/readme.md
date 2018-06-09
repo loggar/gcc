@@ -1,4 +1,4 @@
-## including static libraries archive
+## including static archive-libraries
 
 archive command `ar` will store a set of object files in an archive file:
 
