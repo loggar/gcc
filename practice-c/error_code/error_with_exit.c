@@ -3,6 +3,10 @@
 #include <sys/types.h>
 #include <errno.h>
 
+/**
+ * build this on Unix system or Cygwin (for fork())
+ */
+
 void error(char *msg)
 {
 	fprintf(stderr, "%s: %s\n", msg, strerror(errno));
