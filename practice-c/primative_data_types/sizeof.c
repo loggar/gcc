@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
 	printf("An int takes %li bytes\n", sizeof(int));
