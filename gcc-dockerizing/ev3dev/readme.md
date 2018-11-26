@@ -1,6 +1,7 @@
 # Using Docker to Cross-Compile with ev3dev cross-compiler image
 
 * https://www.ev3dev.org/docs/tutorials/using-docker-to-cross-compile/
+* https://www.ev3dev.org/docs/tutorials/getting-started-with-c/
 
 ## Install
 
