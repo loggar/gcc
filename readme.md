@@ -1,12 +1,12 @@
 # Charly
 
-## C, C++
+## C
 
 Ref)
 
-https://github.com/dogriffiths/HeadFirstC
+headfirst c (https://github.com/dogriffiths/HeadFirstC)
 
-practice-c/functional-pointer https://www.geeksforgeeks.org/function-pointer-in-c
+practice-c/functional-pointer (https://www.geeksforgeeks.org/function-pointer-in-c)
 
 ## mingw
 
